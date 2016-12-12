@@ -1,0 +1,17 @@
+{
+  "name": "hyper-sierra-vibrancy",
+  "version": "0.1.1",
+  "description": "Hyper theme with vibrancy inspired by Hyper Sierra",
+  "main": "index.js",
+  "repository": "https://github.com/licatajustin/hyper-sierra-vibrancy.git",
+  "keywords": [
+    "hyper",
+    "hyper-theme",
+    "colors",
+    "vibrancy",
+    "sierra"
+  ],
+  "author": "Justin Licata",
+  "license": "MIT",
+  "dependencies": {}
+}
