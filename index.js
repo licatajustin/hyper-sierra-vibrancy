@@ -52,6 +52,7 @@ exports.decorateConfig = (config) => {
       }
       .hyper_main {
         border: none !important;
+        background: ${backgroundColor} !important;
       }
       .header_header {
         background: rgba(4, 9, 15, 0.1) !important;
