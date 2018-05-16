@@ -58,7 +58,7 @@ exports.decorateConfig = (config) => {
         background: rgba(4, 9, 15, 0.1) !important;
       }
       .splitpane_divider {
-        background-colo4, 9, 15, 0.35) !important;
+        background-color: rgba(4, 9, 15, 0.35) !important;
       }
       .tab_tab {
         border: 0;
